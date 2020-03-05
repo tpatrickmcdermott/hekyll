@@ -26,7 +26,7 @@ So this is the _**Fibonacci Sequence**_ in a nutshell. Starting with `[0,1]`, yo
  [0,1,1],
  [0,1,1,2],
  [0,1,1,2,3],
- [0,1,,1,2,3,5]
+ [0,1,1,2,3,5]
  [0,1,1,2,3,5,8]
 ```
 
