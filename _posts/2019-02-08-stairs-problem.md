@@ -23,10 +23,11 @@ Now add a 3rd step. Again, you can either go `+1`, or `-1+2`. And so on. Basical
 So this is the _**Fibonacci Sequence**_ in a nutshell. Starting with `[0,1]`, you keep adding entries by adding the 2 previous numbers.
 ```
  [0,1],
- [0,1,2],
- [0,1,2,3],
- [0,1,2,3,5]
- [0,1,2,3,5,8]
+ [0,1,1],
+ [0,1,1,2],
+ [0,1,1,2,3],
+ [0,1,,1,2,3,5]
+ [0,1,1,2,3,5,8]
 ```
 
 Stairs  | Paths  | Compositions
